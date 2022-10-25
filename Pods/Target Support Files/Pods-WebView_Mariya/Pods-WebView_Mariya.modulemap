@@ -1,0 +1,6 @@
+framework module Pods_WebView_Mariya {
+  umbrella header "Pods-WebView_Mariya-umbrella.h"
+
+  export *
+  module * { export * }
+}
